@@ -1,2 +1,2 @@
-# Wrecking-ball
-This the silulation of wrecking ball and demolition of a building
+# Wrecking_ball
+Wrecking ball simulation
